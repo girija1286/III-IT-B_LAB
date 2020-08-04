@@ -1,3 +1,17 @@
 # EXPERIMENT - 1
 ## AIM OF THE EXPERIMENT
-### Step by step procedure of experiment.
+TO DISPALY THE NAMES AND ROLLNUMBERS OF STUDENT
+### Step by step procedure of experiment
+1.
+2.
+3.
+
+
+
+
+
+OUTPUT OBTAINED
+
+
+
+
